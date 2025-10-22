@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 #define TAM 10
 #define TAM_NAVIO 3
